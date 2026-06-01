@@ -1,0 +1,57 @@
+ Adjustable Weights (Yellow Cells are editable),,,,,,,,,,,,,,
+Weight - Tenure (W1),35%, ? Longer Gaps = High Risk,,,,,,,,,,,,
+Weight - Promo Gap (W2),40%,? Longer Since Last Promotion = High Risk,,,,,,,,,,,,
+Weight - Performance (W3),25%,? Lower rating = High Risk,,,,,,,,,,,,
+?? W1+W2+W3 must = 100%,100%,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Emp ID,Name,Department,Manager Name,Tenure Yrs,Age,Age Band,Promo Gap Yrs,Perf Rating,Tenure Score,Promo Gap Score,Perf Score,Risk Score,Risk Band,Rank 
+EMP2824,Priya Trivedi,Marketing,Rajiv Khanna,13,58,50+,8,3,13,100,50,57.2,Medium Risk,22
+EMP1106,Kapil Pandey,IT,Geeta Pillai,11,38,30-39,10,3,27,100,50,61.8,Medium Risk,13
+EMP6925,Pranav Agarwal,Engineering,Geeta Pillai,15,47,40-49,14,3,0,100,50,52.5,Medium Risk,30
+EMP4598,Geeta Goel,Sales,Geeta Pillai,13,44,40-49,12,5,13,100,0,44.7,Low Risk,45
+EMP6930,Suresh Mishra,Legal,Manish Tiwari,15,40,40-49,12,4,0,100,25,46.3,Medium Risk,42
+EMP5808,Neha Pandey,Legal,Siddharth Roy,15,45,40-49,14,5,0,100,0,40,Low Risk,49
+EMP6947,Ritu Srivastava,Sales,Divya Reddy,13,36,30-39,11,2,13,100,75,63.4,Medium Risk,8
+EMP7118,Alok Dutta,Legal,Rajiv Khanna,14,39,30-39,9,4,7,100,25,48.6,Medium Risk,37
+EMP8744,Kavya Subramaniam,IT,Rajiv Khanna,13,55,50+,8,5,13,100,0,44.7,Low Risk,46
+EMP2235,Alok Ghosh,Engineering,Preethi Nair,15,38,30-39,14,3,0,100,50,52.5,Medium Risk,31
+EMP8973,Pooja Agarwal,Marketing,Anil Desai,13,58,50+,10,4,13,100,25,50.9,Medium Risk,33
+EMP1651,Usha Joshi,IT,Siddharth Roy,5,43,40-49,3,3,67,60,50,59.8,Medium Risk,17
+EMP9808,Nisha Das,Marketing,Siddharth Roy,14,42,40-49,11,4,7,100,25,48.6,Medium Risk,38
+EMP4450,Mala Bhatia,Operations,Siddharth Roy,5,35,30-39,3,4,67,60,25,53.6,Medium Risk,27
+EMP3442,Vikas Singh,Operations,Rajiv Khanna,6,42,40-49,3,5,60,60,0,45,Medium Risk,44
+EMP3662,Divya Pillai,Sales,Sunita Bose,13,48,40-49,12,5,13,100,0,44.7,Low Risk,47
+EMP4164,Shreya Bhatia,Marketing,Siddharth Roy,14,56,50+,10,2,7,100,75,61.1,Medium Risk,14
+EMP4114,Nikhil Singh,IT,Geeta Pillai,15,54,50+,13,2,0,100,75,58.8,Medium Risk,18
+EMP7211,Geeta Trivedi,HR,Geeta Pillai,6,40,40-49,6,3,60,100,50,73.5,High Risk,1
+EMP6491,Ananya Desai,Finance,Sunita Bose,5,34,30-39,5,4,67,100,25,69.6,Medium Risk,3
+EMP2746,Hema Rao,Finance,Divya Reddy,13,50,50+,12,2,13,100,75,63.4,Medium Risk,9
+EMP5050,Naveen Chauhan,Legal,Sunita Bose,6,42,40-49,3,3,60,60,50,57.5,Medium Risk,20
+EMP1320,Kapil Bose,IT,Preethi Nair,9,39,30-39,4,4,40,80,25,52.3,Medium Risk,32
+EMP9751,Priya Iyer,Sales,Divya Reddy,14,40,40-49,14,3,7,100,50,54.8,Medium Risk,25
+EMP2124,Hema Sinha,Sales,Sunita Bose,4,32,30-39,3,3,73,60,50,62.2,Medium Risk,12
+EMP1420,Ritu Bose,IT,Sunita Bose,9,33,30-39,8,4,40,100,25,60.3,Medium Risk,16
+EMP6934,Naveen Krishnan,HR,Manish Tiwari,10,47,40-49,4,4,33,80,25,49.9,Medium Risk,35
+EMP6325,Divya Choudhury,Finance,Preethi Nair,11,40,40-49,8,4,27,100,25,55.6,Medium Risk,23
+EMP4630,Shreya Rathore,Finance,Geeta Pillai,11,44,40-49,6,5,27,100,0,49.3,Medium Risk,36
+EMP4545,Radha Subramaniam,Marketing,Anil Desai,4,42,40-49,4,3,73,80,50,70.2,High Risk,2
+EMP2680,Aarav Bose,Marketing,Manish Tiwari,8,41,40-49,5,4,47,100,25,62.6,Medium Risk,10
+EMP4697,Hema Dutta,Marketing,Sunita Bose,8,48,40-49,4,4,47,80,25,54.6,Medium Risk,26
+EMP5771,Rohit Saxena,Marketing,Preethi Nair,5,41,40-49,3,4,67,60,25,53.6,Medium Risk,28
+EMP5728,Alok Yadav,Legal,Rajiv Khanna,5,39,30-39,2,4,67,40,25,45.6,Medium Risk,43
+EMP5415,Pranav Singh,HR,Sunita Bose,8,45,40-49,3,4,47,60,25,46.6,Medium Risk,41
+EMP1601,Bhavna Joshi,Operations,Manish Tiwari,11,45,40-49,10,4,27,100,25,55.6,Medium Risk,24
+EMP8941,Meera Verma,Finance,Sunita Bose,5,44,40-49,3,5,67,60,0,47.3,Medium Risk,40
+EMP7284,Amit Chakraborty,HR,Siddharth Roy,15,49,40-49,10,1,0,100,100,65,Medium Risk,7
+EMP4912,Pranav Nair,Finance,Anil Desai,4,35,30-39,2,4,73,40,25,47.9,Medium Risk,39
+EMP7717,Lata Tiwari,Engineering,Manish Tiwari,8,49,40-49,7,4,47,100,25,62.6,Medium Risk,11
+EMP2612,Kapil Bhattacharya,Engineering,Manish Tiwari,9,40,40-49,6,3,40,100,50,66.5,Medium Risk,5
+EMP3344,Suresh Krishnan,Marketing,Geeta Pillai,9,30,30-39,4,3,40,80,50,58.5,Medium Risk,19
+EMP5847,Vinod Patel,Sales,Siddharth Roy,5,27,Under 30,4,3,67,80,50,67.8,Medium Risk,4
+EMP1645,Ritu Menon,Sales,Anil Desai,6,33,30-39,3,3,60,60,50,57.5,Medium Risk,21
+EMP2886,Bhavna Kumar,HR,Manish Tiwari,4,46,40-49,2,2,73,40,75,60.4,Medium Risk,15
+EMP4830,Gaurav Verma,Operations,Sunita Bose,7,30,30-39,2,4,53,40,25,40.9,Low Risk,48
+EMP9850,Tarun Sen,HR,Divya Reddy,9,46,40-49,7,3,40,100,50,66.5,Medium Risk,6
+EMP8450,Ananya Jha,Finance,Preethi Nair,5,28,Under 30,3,4,67,60,25,53.6,Medium Risk,29
+EMP5106,Divya Yadav,Sales,Manish Tiwari,13,42,40-49,13,4,13,100,25,50.9,Medium Risk,34
+EMP9543,Ritu Krishnan,Sales,Sunita Bose,15,49,40-49,14,5,0,100,0,40,Low Risk,50
